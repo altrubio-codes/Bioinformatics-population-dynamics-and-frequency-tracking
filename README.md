@@ -29,13 +29,3 @@ This repository serves as a learning journal to consolidate basic Python program
 * **Day 10: Count-to-Structure Pipeline** (Coming Soon)
 
 ---
-
-## 🛠️ How to Run the Scripts
-
-1. Clone this repository to your local machine.
-2. Open the folder in **VS Code**.
-3. Make sure you have Python installed.
-4. Open your terminal and run any script directly:
-   ```bash
-   python expression_categorizer.py
-   ```
