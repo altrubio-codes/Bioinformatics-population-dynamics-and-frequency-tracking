@@ -6,7 +6,7 @@ This repository serves as a learning journal to consolidate basic Python program
 
 ## 🧬 Core Focus Areas
 * **Transcriptomics (Days 1–5):** Measuring gene activity, normalizing data, and analyzing how cells respond to environmental changes using simulated RNA-Seq data.
-* **Structural Biology (Days 6–10):** Shifting from flat text strings to studying the 3D shapes, physical chemistry, electrical charges, and molecular weights of proteins.
+* **Structural Biology (Days 6–10):** Shifting from flat text strings to studying the 3D shapes, physical chemistry, electrical charges and molecular weights of proteins.
 
 ---
 
