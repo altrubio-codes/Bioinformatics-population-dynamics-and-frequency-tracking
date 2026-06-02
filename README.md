@@ -16,16 +16,16 @@ This repository serves as a learning journal to consolidate basic Python program
 * **Day 1: Expression Level Categorizer (`expression_categorizer.py`)**
   * *Bio Concept:* Gene expression dynamics and raw RNA-Seq read counts.
   * *Python Tool:* Dictionaries, `for` loops, and `if-elif-else` conditional logic blocks.
-* **Day 2: CPM Normalization** (Coming Soon)
-* **Day 3: Fold-Change Filter** (Coming Soon)
-* **Day 4: Quality Control Trimmer** (Coming Soon)
-* **Day 5: MicroRNA Target Matcher** (Coming Soon)
+* **Day 2: CPM Normalization**
+* **Day 3: Fold-Change Filter**
+* **Day 4: Quality Control Trimmer**
+* **Day 5: MicroRNA Target Matcher**
 
 ### Phase 2: Structural Biology & Biomolecules
-* **Day 6: PDB Coordinate Extractor** (Coming Soon)
-* **Day 7: Isoelectric Point Estimator** (Coming Soon)
-* **Day 8: Peptide Bond Simulator** (Coming Soon)
-* **Day 9: Protein Hydrolysis Splitter** (Coming Soon)
-* **Day 10: Count-to-Structure Pipeline** (Coming Soon)
+* **Day 6: PDB Coordinate Extractor**
+* **Day 7: Isoelectric Point Estimator**
+* **Day 8: Peptide Bond Simulator**
+* **Day 9: Protein Hydrolysis Splitter**
+* **Day 10: Count-to-Structure Pipeline**
 
 ---
