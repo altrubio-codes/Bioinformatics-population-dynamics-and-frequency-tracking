@@ -14,8 +14,8 @@ This repository serves as a learning journal to consolidate basic Python program
 
 ### Phase 1: Transcriptomics & RNA-Seq
 * **Day 1: Expression Level Categorizer (`expression_categorizer.py`)**
-  * *Bio Concept:* Gene expression dynamics and raw RNA-Seq read counts.
-  * *Python Tool:* Dictionaries, `for` loops and `if-elif-else` conditional logic blocks.
+  * **Bio Concept:** Gene expression dynamics and raw RNA-Seq read counts.
+  * **Python Tool:** Dictionaries, `for` loops and `if-elif-else` conditional logic blocks.
 * **Day 2: CPM Normalization** (`cpm_normalizer.py`)
   * **Bio Concept:** Counts Per Million (CPM) to account for sequencing depth variations across samples.
   * **Python Tool:** Mathematical operations, list comprehensions, and basic data scaling formulas.
